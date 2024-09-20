@@ -1,1 +1,2 @@
-Hello this is my GitHub site... Test only bro
+# Stride - Bootstrap 5 HTML template
+A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
